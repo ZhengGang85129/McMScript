@@ -9,7 +9,7 @@ mcm = McM(dev=False)
 
 f = open("./PrepId/ExtraYukawa_S0.txt","r")
 
-tags = 'extrayukawa_runIISummer20'
+tags = 'UL18FASTSIM_10p6p30'
 prepids_reqs = f.readlines()
 
 #updateA
